@@ -1,6 +1,3 @@
-
-> _Here are some projects I've made. They might not be super technically impressive or pretty, but they all have a special place in my heart 💓_
-
 [Solubilty Checker](https://sugar0ats.github.io/solubility-rules/)
 
 [Paper Plane](https://sugar0ats.github.io/paperairplane/)
